@@ -13,15 +13,17 @@ Create a Database in the below given name and you can insert the provided data u
 Use the Below given credentials to get access .
 
 ----Admin Login Details----
-
-Email	: admin@mail.com
-Password: admin@ibank
-
+<ul>
+<li>Email	: admin@mail.com</li>
+<li>Password: admin@ibank</li>
+</ul>
 
 ---Staff Login Details---
 
-Email	: staff@mail.com
-Password: staff@ibank
+<ul>
+  <li>Email	: staff@mail.com</li>
+  <li>Password: staff@ibank</li>
+</ul>
 
 # Screenshots
 <img src="https://github.com/Levyathanz/Internet_Banking/blob/main/screenshots/main.png">
@@ -36,4 +38,4 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <a href="https://www.javascript.com/"><li>Javascript</a></li>
 </ul>
 
-Thanking  You
+<strong>Thanking  You</strong>
