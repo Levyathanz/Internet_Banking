@@ -1,3 +1,4 @@
+#INTERNET_BANKING
 This is a Cloned Internet Banking web Application for "Admin","Staff"and"Client" of the Bank.
 Before running this web application verify the PHP version and make all the required configuration for php.
 
@@ -21,5 +22,18 @@ Password: admin@ibank
 
 Email	: staff@mail.com
 Password: staff@ibank
+
+# Screenshots
+<img src="https://github.com/Levyathanz/Internet_Banking/blob/main/screenshots/main.png">
+Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/Levyathanz/Internet_Banking/tree/main/screenshots">click here</a>
+
+# Technologies Used
+<ul>
+<a href="https://www.mysql.com/"><li>MySQL</a></li>
+<a href="https://www.php.net/"><li>PHP</a></li>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><li>CSS</a></li>
+<a href="https://www.w3.org/TR/html52/"><li>HTML</a></li>
+<a href="https://www.javascript.com/"><li>Javascript</a></li>
+</ul>
 
 Thanking  You
