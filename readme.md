@@ -1,4 +1,4 @@
-#INTERNET_BANKING
+# INTERNET_BANKING
 This is a Cloned Internet Banking web Application for "Admin","Staff"and"Client" of the Bank.
 Before running this web application verify the PHP version and make all the required configuration for php.
 
